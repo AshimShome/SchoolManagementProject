@@ -1,0 +1,8 @@
+.error{
+	color:red;
+	font-style:italic;
+}
+
+.content{
+	min-height:50px;
+}
